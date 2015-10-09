@@ -26,7 +26,7 @@ skylink.on('mediaAccessSuccess', function(stream) {
 });
 
 skylink.init({
-  apiKey: '',
+  apiKey: 'be12b9db-5491-401e-bb2e-608c13d47923',
   defaultRoom: 'davidroom'
 }, function() {
   skylink.joinRoom({
